@@ -12,7 +12,7 @@ public class Main {
     	}
 		JSONParser jsonParser=new JSONParser(json);
 		jsonParser.validateJSON();
-		System.out.println("Nothimg wrong with this json string");
+		System.out.println("Nothing wrong with this json string");
 	}
 
 }
